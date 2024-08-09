@@ -1,0 +1,28 @@
+/* styles.css */
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #77dd77;
+}
+
+#game-container {
+  text-align: center;
+}
+
+#gameCanvas {
+  border: 2px solid #000;
+  background-color: #aad751;
+}
+
+#game-info {
+  margin-top: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
